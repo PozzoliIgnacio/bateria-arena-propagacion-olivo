@@ -1,7 +1,7 @@
 # Batería Térmica de Arena para Propagación de Olivo
 Sistema híbrido solar-térmico para calefacción autónoma de camas calientes de enraizamiento
-![Status](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
-![Fase](https://img.shields.io/badge/fase-ingenier%C3%ADa%20b%C3%A1sica-blue)
+\![Status](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
+\![Fase](https://img.shields.io/badge/fase-ingenier%C3%ADa%20b%C3%A1sica-blue)
 
 > Proyecto de diseño mecánico dentro del **Sistema Automático y Telemetrizado de Propagación de Olivo**. Este repositorio documenta el diseño, cálculo, simulación y construcción de un **acumulador térmico de arena** que reemplaza el uso de baterías químicas (litio) para independizar el sistema de la red eléctrica domiciliaria.
 
